@@ -1,7 +1,7 @@
 # project-template
-includes the standard files of a Paspberry Pi p Pico W project, plus moveuf2toD.bat, create.sh and transfer.sh.\
+includes the standard files of a Paspberry Pi p Pico W project, plus [moveuf2toD.bat](https://link-url-here.org), create.sh and transfer.sh.\
 
-# newproject
+# newproject.sh
 creates a new project folder (copied from project-template) and replaces the project name in the CMakeLists.txt with the correct project name.\
 
 # moveuf2toD.bat
