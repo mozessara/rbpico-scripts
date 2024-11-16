@@ -1,7 +1,9 @@
 ## Use
 Download the [project-template](https://github.com/mozessara/rbpico-scripts/tree/main/project-template) folder and the [newproject.sh](https://github.com/mozessara/rbpico-scripts/blob/main/newproject.sh) file in the same directory and type `./newproject.sh [YOUR PROJECT NAME]` on the terminal, and your new project will be created. <br>
 <br>
-If you are ready to test your program - written in [main.c](https://github.com/mozessara/rbpico-scripts/blob/main/project-template/main.c) - go in your project folder (`cd week[CURRENT WEEK]/project-[YOUR PROJECT NAME]`) and run `./create.sh`.<br>
+Before you can run anything you need to give permission, to do that type `chmod u+x newproject.sh` in the terminal, then navigate to the project folder `cd week[CURRENT WEEK]/project-[YOUR PROJECT NAME]` and type `chmod u+x create.sh transfer.sh`.
+<br>
+If you are ready to test your program - written in [main.c](https://github.com/mozessara/rbpico-scripts/blob/main/project-template/main.c) - go in your project folder (`cd week[CURRENT WEEK]/project-[YOUR PROJECT NAME]`) if you haven't already and run `./create.sh`.<br>
 <br>
 In case you already ran the create script, and have the build folder, simply run `./transfer.sh`, just make sure the Raspberry Pico is plugged in and reset.<br>
 # [project-template](https://github.com/mozessara/rbpico-scripts/tree/main/project-template)
