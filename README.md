@@ -3,7 +3,7 @@ Download the [project-template](https://github.com/mozessara/rbpico-scripts/tree
 <br>
 If you are ready to test your program - written in [main.c](https://github.com/mozessara/rbpico-scripts/blob/main/project-template/main.c) - go in your project folder (`cd week[CURRENT WEEK]/project-[YOUR PROJECT NAME]`) and run `./create.sh`.<br>
 <br>
-In case you already ran the create script, and have the build folder, simply run `./transfer.sh`, just make sure the Raspberry Pico is plugged in and reset.<>br
+In case you already ran the create script, and have the build folder, simply run `./transfer.sh`, just make sure the Raspberry Pico is plugged in and reset.<br>
 # [project-template](https://github.com/mozessara/rbpico-scripts/tree/main/project-template)
 includes the standard files of a Paspberry Pi p Pico W project, plus [moveuf2toD.bat](https://github.com/mozessara/rbpico-scripts/blob/main/project-template/moveuf2toD.bat), [create.sh](https://github.com/mozessara/rbpico-scripts/blob/main/project-template/create.sh) and [transfer.sh](https://github.com/mozessara/rbpico-scripts/blob/main/project-template/transfer.sh).
 
